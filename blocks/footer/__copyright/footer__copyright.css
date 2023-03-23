@@ -1,0 +1,19 @@
+.footer__copyright {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+@media all and (max-width: 320px) {
+    .footer__сopyright {
+        line-height: 14px;
+    }
+}
+
+

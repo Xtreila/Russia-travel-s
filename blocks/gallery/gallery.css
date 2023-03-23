@@ -1,0 +1,15 @@
+.gallery {
+    padding-top: 92px;
+}
+
+@media all and (max-width: 768px) {
+    .gallery {
+    padding-top: 88px;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .gallery {
+    padding-top: 64px;
+    }
+}
